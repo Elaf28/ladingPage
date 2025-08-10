@@ -313,12 +313,16 @@ main{
         min-height: 100vh;
         padding: 1.5rem 0;
         background: #FFBB1C0D;
+        padding:3.5rem 0px ;
     }
 
     .section-6-content{
         display: flex;
         justify-content: center;
         gap: 25px;
+    }
+    .image-Featured{
+        width: 4.3rem;
     }
     .section-6-content > div{
         flex: 1;
